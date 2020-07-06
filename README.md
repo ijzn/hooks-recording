@@ -1,10 +1,5 @@
 # hooks_docs
 
-
----
-order: 1
----
-
 ## hooks 学习记录
 
 ### 1. React Hooks
