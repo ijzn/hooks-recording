@@ -1,3 +1,10 @@
+
+```
+// 快速启动
+1. npm i
+2. npm start
+```
+
 ## hooks 学习记录
 
 ### 1. React Hooks
@@ -11,6 +18,7 @@
 ### 3. 注意事项
 - 只能在函数最外层调用 Hook。不要在循环、条件判断或者子函数中调用。
 - 只能在 React 的函数组件中调用 Hook。不要在其他 JavaScript 函数中调用
+
 
 
 ## Getting Started
