@@ -1,5 +1,5 @@
 export default {
-  base: '/hooks-recording/',
-  publicPath: '/hooks-recording/',
+  base: '/hooks-recording/docs-dist/',
+  publicPath: '/hooks-recording/docs-dist/',
   exportStatic: {},
 }
