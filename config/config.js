@@ -1,5 +1,5 @@
 export default {
-  base: '/hooks-recording',
-  publicPath: '/hooks-recording/',
+  base: 'https://ijzn.github.io/hooks-recording/docs-dist',
+  publicPath: 'https://ijzn.github.io/hooks-recording/docs-dist',
   exportStatic: {},
 }
