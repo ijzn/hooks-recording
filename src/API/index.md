@@ -1,7 +1,8 @@
 ---
-order: 11
+order: 5
 group:
   title: 自定义hook规范
+  path: advanced
 ---
 
 # API 规范

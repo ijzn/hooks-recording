@@ -1,7 +1,8 @@
 ---
-order: 5
+order: 2
 group:
   title: useEffect
+  path: /basic
 ---
 # useEffect
 -  React 会等待浏览器完成画面渲染之后才会延迟调用 useEffect.

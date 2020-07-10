@@ -1,7 +1,8 @@
 ---
-order: 10
+order: 4
 group:
   title: 自定义hooks
+  path: advanced
 ---
 
 # 自定义hooks

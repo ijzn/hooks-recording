@@ -1,7 +1,8 @@
 ---
-order: 8
+order: 3
 group:
   title: useLayoutEffect
+  path: advanced
 ---
 
 # useLayoutEffect

@@ -1,7 +1,10 @@
 ---
-order: 3
+title: useReducer
+order: 1
 group:
-  title: useReducer
+  title: 进阶
+  path: advanced
+  order: 2
 ---
 # useReducer
 

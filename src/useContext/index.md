@@ -1,7 +1,8 @@
 ---
-order: 4
+order: 3
 group:
   title: useContext
+  path: /basic
 ---
 
 ## useContext

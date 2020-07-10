@@ -1,7 +1,8 @@
 ---
-order: 7
+title: useRef
+order: 2
 group:
-  title: useRef
+  path: advanced
 ---
 # useRef
 
